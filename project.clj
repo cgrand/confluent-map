@@ -1,5 +1,5 @@
-(defproject confluent-map "0.1.0-SNAPSHOT"
-  :description "A confluent persistnt hash map for Clojure"
+(defproject net.cgrand/confluent-map "0.1.0-SNAPSHOT"
+  :description "A confluent persistent hash map for Clojure"
   :url "http://example.com/FIXME"
   :license {:name "Eclipse Public License"
             :url "http://www.eclipse.org/legal/epl-v10.html"}

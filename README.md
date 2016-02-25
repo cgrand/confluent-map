@@ -5,6 +5,10 @@ A confluent hash map for Clojure.
 ## Usage
 
 ```clojure
+[net.cgrand/confluent-map "0.1.0-SNAPSHOT"]
+```
+
+```clojure
 user=>  (use '[net.cgrand.confluent-map :only [e merge3 merge2]])
 nil
 user=> (def m (assoc e :a 1 :b 2 :c 3))
